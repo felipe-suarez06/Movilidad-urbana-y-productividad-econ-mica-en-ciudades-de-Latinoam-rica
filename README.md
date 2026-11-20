@@ -9,3 +9,8 @@
     - La ciudad con el mayor tiempo promedio de tráfico es: mexico-city
         - No se aprecia que aya una relación directa clara, algunas ciudades con alto PIB: pueden tener más tráfico(como mexico-city) lo que equivaldria más actividad económica o menos tráfico (tal caso el de montevideo) que puede indicar mejor infraestructura Esto sugiere que:
         - El tráfico no depende solo del PIB, puede ser influenciado por otros factores (urbanismo, transporte público, población)
+- **¿Qué demuestra este proyecto?**
+    
+    Este trabajo muestra mi capacidad para integrar datos de distintas fuentes, analizar relaciones entre variables urbanas y económicas, y presentar resultados que pueden orientar preguntas de política pública e inversión en infraestructura.
+    
+- **🛠️ Skills:** Python | Pandas, numpy, seaborn, matplotlib
